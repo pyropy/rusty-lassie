@@ -229,6 +229,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "pyropy_lassie"
+version = "0.10.0"
+dependencies = [
+ "anyhow",
+ "cc",
+ "env_logger",
+ "log",
+ "pretty_assertions",
+ "ureq",
+]
+
+[[package]]
 name = "regex"
 version = "1.10.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -300,18 +312,6 @@ dependencies = [
  "ring",
  "rustls-pki-types",
  "untrusted",
-]
-
-[[package]]
-name = "rusty_lassie"
-version = "0.10.0"
-dependencies = [
- "anyhow",
- "cc",
- "env_logger",
- "log",
- "pretty_assertions",
- "ureq",
 ]
 
 [[package]]
