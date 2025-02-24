@@ -4,7 +4,7 @@ version = "0.9.0"
 description = "A Rust wrapper for Lassie - a minimal universal retrieval client library for IPFS and Filecoin"
 license = "MIT OR Apache-2.0"
 edition = "2021"
-repository = "https://github.com/filecoin-station/rusty-lassie"
+repository = "https://github.com/pyropy/rusty-lassie"
 authors = [
     "Miroslav Bajtoš <oss@bajtos.net>"
 ]
